@@ -1,0 +1,5 @@
+private int num;
+int height
+protected double width;
+public String word;
+char[] chars;
